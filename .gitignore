@@ -29,4 +29,10 @@
 # Executables
 *.exe
 *.out
-*.app
+*.app.
+
+
+/.idea
+/.idea/*.*
+/.vscode
+```
